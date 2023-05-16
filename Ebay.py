@@ -12,11 +12,11 @@ speaker = win32com.client.Dispatch("SAPI.SpVoice")
 print('轩轩技术终端有限公司')
 print(' © 2010-2023')
 
-a = (input("请输入Ebay的账号 例：mark757125@21cn.com :"))
-b = (input("请输入Ebay的密码 例：thanks757125@% :"))
-c = (input("商品的网址 例：https://www.ebay.com/itm/12585727173 :"))
-d = (input("商品的价格 例：10 :"))
-e = (input("商品的抢购时间 例：2023-04-10 19:56:00 :"))
+a = (input("请输入Ebay的账号 :"))
+b = (input("请输入Ebay的密码 :"))
+c = (input("商品的网址 例：:"))
+d = (input("商品的价格 例：:"))
+e = (input("商品的抢购时间  :"))
 g = '757125'
 h = True
 
